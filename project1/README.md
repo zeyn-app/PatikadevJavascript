@@ -1,5 +1,4 @@
 # PatikadevJavascript
-The javascript projects assign from Patika are shown here.
 
 It's simply a screen that displays the current time and day by asking you for your name at login and then placing that name on the welcome screen. 
 
